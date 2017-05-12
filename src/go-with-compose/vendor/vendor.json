@@ -1,0 +1,176 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "4Tc07iR3HloUYC4HNT4xc0875WY=",
+			"origin": "github.com/kardianos/govendor/vendor/github.com/Bowery/prompt",
+			"path": "github.com/Bowery/prompt",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "ULnk7ggN82JFO0ZdBCmSsQH3Vh8=",
+			"origin": "github.com/kardianos/govendor/vendor/github.com/dchest/safefile",
+			"path": "github.com/dchest/safefile",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "e/Kc2UOy1lKAy31xWlK37M1r2e8=",
+			"origin": "github.com/kardianos/govendor/vendor/github.com/google/shlex",
+			"path": "github.com/google/shlex",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "m24kWw3bFoAkKVvTjmxSLsywdHY=",
+			"path": "github.com/kardianos/govendor/cliprompt",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "/6r+luJ0EK07RknNd0zrubHtMuQ=",
+			"path": "github.com/kardianos/govendor/context",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "Y0WMEgLxFAzHAIxFViFSWh7dqqY=",
+			"path": "github.com/kardianos/govendor/help",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "IykEJ4TqvyJkhw38fzH6pDJ5/VM=",
+			"path": "github.com/kardianos/govendor/internal/gt",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "SPRzsXaOsg9dENhLfHRjmFMmGQM=",
+			"path": "github.com/kardianos/govendor/internal/pathos",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "Bl6I6yMiK60dzOAfyO7As6MSPIk=",
+			"path": "github.com/kardianos/govendor/internal/vfilepath",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "2Vg+J79rEhmtnprErQ7fTZdneIk=",
+			"path": "github.com/kardianos/govendor/internal/vos",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "rpK9ccIJkLV4IbKb3lUjUo5DSfU=",
+			"path": "github.com/kardianos/govendor/migrate",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "wL4SaLS/HTn32Gmq8kpYRr/cn68=",
+			"path": "github.com/kardianos/govendor/pkgspec",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "I9oQBOtXoOinofTJrBE+zI+vDCs=",
+			"path": "github.com/kardianos/govendor/prompt",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "tXbK0YAL7/ZrLWkokBrLdp30xjw=",
+			"path": "github.com/kardianos/govendor/run",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "ZDlz1nWDmErU501lCChKbTT3kEs=",
+			"path": "github.com/kardianos/govendor/vcs",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "oXa3HaUXhXktMp4C0xTOSrzPDTE=",
+			"path": "github.com/kardianos/govendor/vendorfile",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "GcaTbmmzSGqTb2X6qnNtmDyew1Q=",
+			"origin": "github.com/kardianos/govendor/vendor/github.com/pkg/errors",
+			"path": "github.com/pkg/errors",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "oS0UZOGWVVsVciOQ8nZJ582mFF8=",
+			"origin": "github.com/kardianos/govendor/vendor/golang.org/x/sys/unix",
+			"path": "golang.org/x/sys/unix",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "uwKP1AVzd+lrTMlXVFjZXXHzB7U=",
+			"origin": "github.com/kardianos/govendor/vendor/golang.org/x/tools/go/vcs",
+			"path": "golang.org/x/tools/go/vcs",
+			"revision": "c86c10d612bf08e847456ce91d495eb69ad87087",
+			"revisionTime": "2017-05-06T05:20:04Z"
+		},
+		{
+			"checksumSHA1": "2wAGOMguI9w/iOd3jeXmw4pwLsg=",
+			"origin": "gopkg.in/redis.v4/vendor/gopkg.in/bsm/ratelimit.v1",
+			"path": "gopkg.in/bsm/ratelimit.v1",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		},
+		{
+			"checksumSHA1": "SPIlcnhp57fmsD8mejIaOLFtmpI=",
+			"path": "gopkg.in/redis.v4",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		},
+		{
+			"checksumSHA1": "u24d3wK+Otp3+nu3wSQOMqhg+N8=",
+			"path": "gopkg.in/redis.v4/internal",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		},
+		{
+			"checksumSHA1": "l+1jiOGUyjHP0u0mB+KiT/UHVcY=",
+			"path": "gopkg.in/redis.v4/internal/consistenthash",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		},
+		{
+			"checksumSHA1": "XxoAGEMN5ZCJJ3FeDMSTVhvscHg=",
+			"path": "gopkg.in/redis.v4/internal/errors",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		},
+		{
+			"checksumSHA1": "6XSNzBg5bzd2TjEfC/q41tPT/Zg=",
+			"path": "gopkg.in/redis.v4/internal/hashtag",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		},
+		{
+			"checksumSHA1": "fYkMv2BMIeHKM1VirUzJ7A/jG7w=",
+			"path": "gopkg.in/redis.v4/internal/pool",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		},
+		{
+			"checksumSHA1": "BGzuM8ZpMCmTKWnb/3CtrV4OwDU=",
+			"path": "gopkg.in/redis.v4/internal/proto",
+			"revision": "c938162545c57136fa59879746bc65d0f1db3d1e",
+			"revisionTime": "2016-12-20T10:13:33Z"
+		}
+	],
+	"rootPath": "go-with-compose"
+}
